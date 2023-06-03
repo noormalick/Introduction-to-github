@@ -29,7 +29,7 @@ _Great job opening that pull request! :wave:_
 The best way to get a review is to ask for one. On GitHub, you can ask someone to review a pull request by assigning them as a reviewer or assignee. If you are not ready for review, consider [creating a draft pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) instead.
 
 ### :keyboard: Activity: Assign yourself
-
+Great Work
 1. Open the pull request you just created.
 1. Under **Assignees** on the right side of the screen, add yourself.
 
